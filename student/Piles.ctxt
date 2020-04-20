@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=generator
+comment0.target=Piles(java.util.Random)
+comment0.text=\r\n\ \ \tSets\ up\ the\ game\ randomly\ with\ some\ number\ of\ piles\ of\ random\r\n\ \ \tsize.\ The\ pile\ sizes\ add\ up\ to\ 45.\r\n
+comment1.params=piless
+comment1.target=Piles(int[])
+comment1.text=\r\n\ \ \tSet\ up\ a\ pile\ with\ a\ known\ (non-random)\ configuration\ for\ testing.\r\n\ \ \t@param\ piless\ an\ array\ of\ numbers\ whose\ sum\ is\ 45\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ the\ string\ representation\ of\ the\ piles.\r\n\ @return\ the\ string\ representation\ of\ the\ piles.\r\n
+comment3.params=
+comment3.target=void\ playRound()
+comment3.text=\r\n\ \ \tPlay\ one\ round\ of\ the\ game.\r\n
+numComments=4
